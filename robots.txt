@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohrodieth.beyond-code.com/sitemap.xml
